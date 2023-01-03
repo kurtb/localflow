@@ -12,7 +12,7 @@ spec:
     targetRevision: main
     path: components/cert-manager
   destination:
-    name: default
+    name: in-cluster
     namespace: kubeflow
   syncPolicy:
     automated:
