@@ -4,3 +4,6 @@ resources:
 - cert-manager.yaml
 - istio.yaml
 - dex.yaml
+- oidc.yaml
+- knative.yaml
+- kubeflow-namespace.yaml
