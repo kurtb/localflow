@@ -14,3 +14,9 @@ resources:
 - katib.yaml
 - dashboard.yaml
 - admissions-webhook.yaml
+- notebooks.yaml
+- profiles.yaml
+- volumes.yaml
+- tensorboard.yaml
+- training-operator.yaml
+- user-namespace.yaml
