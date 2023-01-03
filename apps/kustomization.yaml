@@ -7,3 +7,4 @@ resources:
 - oidc.yaml
 - knative.yaml
 - kubeflow-namespace.yaml
+- kubeflow-roles.yaml
