@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     repoURL: git@github.com:kurtb/localflow.git
-    targetRevision: HEAD
+    targetRevision: main
     path: apps
   destination:
     name: default
