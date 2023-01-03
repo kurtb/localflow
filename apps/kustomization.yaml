@@ -8,3 +8,9 @@ resources:
 - knative.yaml
 - kubeflow-namespace.yaml
 - kubeflow-roles.yaml
+- kubeflow-resources.yaml
+- pipelines.yaml
+- kserve.yaml
+- katib.yaml
+- dashboard.yaml
+- admissions-webhook.yaml
