@@ -13,7 +13,7 @@ resources:
 - kserve.yaml
 - katib.yaml
 - dashboard.yaml
-- admissions-webhook.yaml
+- admission-webhook.yaml
 - notebooks.yaml
 - profiles.yaml
 - volumes.yaml
